@@ -1,0 +1,15 @@
+.temas_nuevos{
+	background:url(../images/iconos.png) bottom;	
+}
+.temas_nuevos2{
+	background:url(../images/iconos2.png) bottom;	
+}
+.temas_nuevos,.temas_nuevos2{
+	width:256px;
+	height:64px;
+	display:block;
+	background-repeat:no-repeat;
+}
+.temas_nuevos:hover,.temas_nuevos2:hover{
+	background-position:0 0;
+}

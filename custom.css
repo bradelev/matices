@@ -1,0 +1,9 @@
+.main-slider {
+  width: 1000px;
+  height: 340px;
+  object-fit: cover;
+  object-position: 50% 20%;
+}
+.main-slider-down {
+  object-position: 50% 10%;
+}
