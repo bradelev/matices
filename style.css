@@ -967,6 +967,11 @@ div.warning { margin-bottom: 20px; }
 	background-color:#EFD7B6;
 }
 
+.widget-socialMedia ul {
+		margin: 0;
+		list-style-type: none;
+}
+
 /**
  * Media queries for responsive design.
  * These follow after, and will override, the primary styles
